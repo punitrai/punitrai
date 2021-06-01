@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @punitrai
-- 👀 I’m interested in coding, leaning new tools:)
+- 👀 I’m interested in coding and leaning new tools:)
 - 🌱 I’m currently learning Exploring more on Spring Boot,Angular 6+
 - 📫 How to reach me ...
 
