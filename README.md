@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @punitrai
 - 👀 I’m interested in coding and leaning new tools:)
-- 🌱 I’m currently learning Exploring more on Spring Boot,Angular 6+
+- 🌱 I’m currently learning Exploring more on Spring Boot,Angular 6+, Microservices
 - 📫 How to reach me ...
 
 <!---
